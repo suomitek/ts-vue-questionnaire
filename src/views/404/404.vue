@@ -10,7 +10,7 @@
       </div>
     </div>
     <div class="footer">
-      <p>微型问卷调查系统</p>
+      <p>犀牛问卷调查系统</p>
     </div>
   </div>
 </template>

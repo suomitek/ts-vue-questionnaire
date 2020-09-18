@@ -1,7 +1,7 @@
 <template>
   <el-container class="layout">
     <el-aside width="220px" class="layout-menu-left">
-      <logo title="微型问卷系统" />
+      <logo title="犀牛问卷系统" />
       <nav-bar />
     </el-aside>
     <el-container class="layout-content-right">

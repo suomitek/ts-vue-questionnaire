@@ -65,7 +65,7 @@
         </div>
       </div>
       <div class="footer">
-        <p>微型问卷系统</p>
+        <p>犀牛问卷系统</p>
       </div>
     </div>
   </div>
